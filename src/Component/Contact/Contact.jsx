@@ -3,7 +3,7 @@
 
 
 const Contact = () => {
-    const URL = "https://form.jotform.com/223433783396060"
+    const URL = "https://form.jotform.com/231834963185464"
     
     return (
         //   <div>

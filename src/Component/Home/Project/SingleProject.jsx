@@ -1,7 +1,9 @@
 
 import { Link } from 'react-router-dom';
 
+// eslint-disable-next-line react/prop-types
 const SingleProject = ({project}) => {
+    // eslint-disable-next-line react/prop-types
     const {_id,name,description,img}=project;
     return (
         <div className="card w-50 bg-base-100 shadow-xl">
