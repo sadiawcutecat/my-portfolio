@@ -16,7 +16,7 @@ const Banner = () => {
                      <button className='btn btn-info mx-2'><FaEnvelope className='mx-2'></FaEnvelope> sadiasalam62@gmail.com</button>
                      <button className='btn btn-info my-4 mx-2'><FaPhone className='mx-2'></FaPhone> 01870791863</button>
                      <br />
-                    <a href="https://drive.google.com/file/d/18kUgIhRXRl77B7WybDUHAlol3aQMCiPN/view?usp=drive_link"><button className="btn btn-success  mx-2 my-2">My Resume</button></a>
+                    <a href="https://drive.google.com/file/d/1uZzXX7nYIW05a5td2sOSRlmzKdxUDJx3/view?usp=sharing"><button className="btn btn-success  mx-2 my-2">My Resume</button></a>
                 </div>
             </div>
         </div>
